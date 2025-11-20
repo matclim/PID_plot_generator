@@ -1,8 +1,6 @@
 
 #!/usr/bin/env python3
 """
-make_beamer.py
-
 Scan a directory for images (png,jpg,jpeg,pdf,svg,eps...) and produce a LaTeX beamer file
 with one slide per image. Optionally compile the generated .tex using pdflatex.
 
